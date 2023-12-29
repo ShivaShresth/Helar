@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208942101894",
+    "project_id": "helardoctor",
+    "storage_bucket": "helardoctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208942101894:android:190979789dfdd7e4cb2807",
+        "android_client_info": {
+          "package_name": "com.example.imageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsi59vMOvSkUJyeit3sF4Lj8bGg6YJPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
